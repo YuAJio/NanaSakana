@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:2:1-144:12
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:2:1-144:12
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:2:1-144:12
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:2:1-144:12
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:2:1-144:12
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:2:1-144:12
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:2:1-144:12
+	package
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:3:5-33
+		INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+		INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:2:1-144:12
+		INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:2:1-144:12
+		INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.CAMERA
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:22:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:26:5-83
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:26:22-80
+uses-feature#android.hardware.microphone
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:29:9-51
+uses-feature#android.hardware.camera
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:32:9-47
+application
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:35:5-143:19
+service#com.qiyukf.nimlib.service.NimService
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:37:9-39:39
+	android:process
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:38:13-64
+service#com.qiyukf.nimlib.service.NimService$Aux
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:40:9-42:39
+	android:process
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:41:13-68
+service#com.qiyukf.unicorn.analytics.AnalyticsService
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:43:9-45:39
+	android:process
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:44:13-73
+receiver#com.qiyukf.nimlib.service.NimReceiver
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:48:9-56:20
+	android:process
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:51:13-36
+	android:exported
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:49:13-65
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:52:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:53:17-79
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:53:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:54:25-76
+service#com.qiyukf.nimlib.service.WakeupService
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:59:9-75
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:59:18-72
+provider#com.qiyukf.nim.uikit.provider.UnicornProvider
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:62:9-70:20
+	android:grantUriPermissions
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:66:13-47
+	android:authorities
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:64:13-72
+	android:exported
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:63:13-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:67:13-69:56
+	android:resource
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:69:17-53
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:68:17-67
+activity#com.qiyukf.unicorn.ui.activity.ServiceMessageActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:72:9-78:70
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:76:13-49
+	android:windowSoftInputMode
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:78:13-67
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:74:13-74
+	android:icon
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:75:13-69
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:77:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:73:13-81
+activity#com.qiyukf.nim.uikit.session.activity.WatchMessagePictureActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:79:9-84:70
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:82:13-49
+	android:windowSoftInputMode
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:84:13-67
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:81:13-74
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:83:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:80:13-93
+activity#com.qiyukf.nim.uikit.session.activity.PickImageActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:85:9-90:70
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:88:13-49
+	android:windowSoftInputMode
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:90:13-67
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:87:13-74
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:89:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:86:13-83
+activity#com.qiyukf.nim.uikit.common.media.picker.activity.PickerAlbumActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:91:9-95:55
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:94:13-49
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:93:13-74
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:95:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:92:13-97
+activity#com.qiyukf.nim.uikit.common.media.picker.activity.PickerAlbumPreviewActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:96:9-100:55
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:99:13-49
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:98:13-74
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:100:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:97:13-104
+activity#com.qiyukf.nim.uikit.common.media.picker.activity.PreviewImageFromCameraActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:101:9-107:70
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:105:13-49
+	android:label
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:104:13-57
+	android:windowSoftInputMode
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:107:13-67
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:103:13-74
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:106:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:102:13-108
+activity#com.qiyukf.unicorn.ui.activity.FileDownloadActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:108:9-113:55
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:112:13-49
+	android:label
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:111:13-63
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:110:13-74
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:113:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:109:13-79
+activity#com.qiyukf.unicorn.ui.activity.UrlImagePreviewActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:114:9-118:55
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:117:13-49
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:116:13-74
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:118:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:115:13-82
+activity#com.qiyukf.unicorn.ui.activity.CardPopupActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:119:9-123:55
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:122:13-49
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:121:13-74
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:123:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:120:13-76
+activity#com.qiyukf.unicorn.ui.activity.LeaveMessageDetailActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:124:9-129:55
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:128:13-49
+	android:label
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:127:13-70
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:126:13-74
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:129:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:125:13-85
+activity#com.qiyukf.nim.uikit.session.activity.CaptureVideoActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:131:9-136:54
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:134:13-49
+	android:windowSoftInputMode
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:135:13-67
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:133:13-63
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:136:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:132:13-86
+activity#com.qiyukf.nim.uikit.session.activity.WatchVideoActivity
+ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:137:9-142:55
+	android:screenOrientation
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:141:13-49
+	android:label
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:140:13-51
+	android:configChanges
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:139:13-74
+	android:theme
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:142:13-52
+	android:name
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml:138:13-84
+uses-sdk
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+		INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+		ADDED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml
+		INJECTED from E:\A_RealAzProject\NanaSakanaKf\QiYuKeFuModule\AndroidManifest.xml

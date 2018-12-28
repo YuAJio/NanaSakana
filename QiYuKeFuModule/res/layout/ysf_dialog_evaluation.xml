@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/ysf_white"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/ysf_grey_f1f1f1"
+        android:focusable="true"
+        android:focusableInTouchMode="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="12dp"
+            android:layout_marginTop="12dp"
+            android:gravity="center_horizontal"
+            android:text="@string/ysf_evaluation_tips"
+            android:textColor="@color/ysf_black_222222"
+            android:textSize="@dimen/ysf_text_size_16" />
+
+        <ImageView
+            android:id="@+id/ysf_evaluation_dialog_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|center_vertical"
+            android:contentDescription="@null"
+            android:padding="12dp"
+            android:src="@drawable/ysf_ic_dialog_close" />
+    </FrameLayout>
+
+    <ScrollView
+        android:id="@+id/scroll_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/ysf_evaluation_dialog_radio_group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:orientation="horizontal" />
+
+            <com.qiyukf.unicorn.widget.flowlayout.TagFlowLayout
+                android:id="@+id/ysf_evaluation_tag_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp" />
+
+            <EditText
+                android:id="@+id/ysf_evaluation_dialog_et_remark"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/ysf_evaluation_remark_border"
+                android:gravity="top"
+                android:hint="@string/ysf_evaluation_dialog_et_hint_remark"
+                android:imeOptions="flagNoExtractUi"
+                android:maxLength="100"
+                android:padding="5dp"
+                android:textColor="@color/ysf_black_80000000"
+                android:textColorHint="@color/ysf_grey_cccccc"
+                android:textSize="@dimen/ysf_text_size_13" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/ysf_btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ysf_evaluation_dialog_btn_submit_bg_selector"
+        android:enabled="false"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="@string/ysf_evaluation_btn_submit"
+        android:textColor="@color/ysf_btn_common_text_color_selector"
+        android:textSize="@dimen/ysf_text_size_16" />
+</LinearLayout>
