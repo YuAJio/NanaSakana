@@ -99,7 +99,7 @@ public class NSKFManager {
         };
         lifeCycleOptions.setSessionLifeCycleListener(lifeCycleListener);
         consultSource.sessionLifeCycleOptions = lifeCycleOptions;
-        consultSource.groupId = NanaContest.NanaFishGroupID;
+        consultSource.groupId = NanaContest.NanaFishGroupID_Back;
         return consultSource;
     }
 
